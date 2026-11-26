@@ -49,6 +49,7 @@ Je travaille actuellement à renforcer mes compétences en :
 ## 🏅 Certifications
 
 - [Conception Web réactive V8 – freeCodeCamp](https://www.freecodecamp.org/certification/fcc-fe54f9db-12c9-4ad5-91b0-366265e70206/responsive-web-design)
+- - [HackerRank Software Engineer Intern : résolution de problèmes et SQL](https://www.hackerrank.com/certificates/85e00d1086e2)
 
 ## 🎯 Objectif
 
